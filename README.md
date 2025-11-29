@@ -11,16 +11,16 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 
-# 📖 Project Overview
-This project involves:
+# 📖 Project Overview  
+This project involves:  
 
-Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.  
+ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.  
+Data Modeling: Developing fact and dimension tables optimized for analytical queries.  
+Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.  
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:  
 
-SQL Development
+SQL Development  
 Data Architect
 Data Engineering
 ETL Pipeline Developer
@@ -31,19 +31,20 @@ Data Analytics
 
 # 🛠️ Important Links & Tools:
 
-[Datasets](https://github.com/Bishnu-JU/SQL-Data_Warehouse-Project/tree/main/dataset): Access to the project dataset (csv files).
-[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
-[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install): GUI for managing and interacting with databases.
-[Git Repository](https://github.com/Bishnu-JU/SQL-Data_Warehouse-Project): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-[DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
-[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2a857b97f3b68087a63ff272e86f2e34): Access to All Project Phases and Tasks.
+[Datasets](https://github.com/Bishnu-JU/SQL-Data_Warehouse-Project/tree/main/dataset): Access to the project dataset (csv files).  
+[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.  
+[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install): GUI for managing and interacting with databases.  
+[Git Repository](https://github.com/Bishnu-JU/SQL-Data_Warehouse-Project): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.  
+[DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.  
+[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2a857b97f3b68087a63ff272e86f2e34): Access to All Project Phases and Tasks.  
 
 
 
 
 # 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
-Objective
+
+Objective 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
