@@ -36,7 +36,7 @@ Data Analytics
 [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install): GUI for managing and interacting with databases.  
 [Git Repository](https://github.com/Bishnu-JU/SQL-Data_Warehouse-Project): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.  
 [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.  
-[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2a857b97f3b68087a63ff272e86f2e34?source=copy_link)): Access to All Project Phases and Tasks.  
+[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2a857b97f3b68087a63ff272e86f2e34?source=copy_link): Access to All Project Phases and Tasks.  
 
 
 
